@@ -1,0 +1,167 @@
+{
+  "pays": "Bosnie-Herzégovine",
+  "drapeau": "🇧🇦",
+  "symbole": "🕌",
+  "titre": "Évasion relaxante à Sarajevo : Trésors des Balkans",
+  "budget_total": "Environ 600-650 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "4h20 depuis Paris, france",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la vieille ville",
+      "legende": "Après un vol paisible, installez-vous confortablement avant de vous perdre dans le dédale historique de Baščaršija. Laissez-vous charmer par l'ambiance ottomane et savourez un premier contact doux avec Sarajevo.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🛬 Arrivée à Sarajevo</strong>: Atterrissage à l'aéroport international de Sarajevo (SJJ) et transfert vers votre hébergement au cœur de la ville.",
+        "<strong>🛏️ Installation et détente</strong>: Prenez le temps de vous installer à votre hôtel et de vous rafraîchir avant de débuter l'exploration.",
+        "<strong>🚶‍♂️ Balade relaxante à Baščaršija</strong>: Flânez dans le quartier historique de la vieille ville, admirez l'architecture ottomane et dégustez un café bosnien traditionnel."
+      ],
+      "illustration": "jour1.jpg",
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport international de Sarajevo, Sarajevo",
+          "categorie": "Aéroport",
+          "coords": { "lat": 43.8247, "lng": 18.3312 }
+        },
+        {
+          "nom_recherche": "Baščaršija, Sarajevo",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 43.8594, "lng": 18.4312 }
+        }
+      ],
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Le café bosnien",
+          "texte": "Ne manquez pas de goûter le café bosnien, servi dans une džezva (cafetière en cuivre) avec un rahat lokum (loukoum)."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Entre histoire et sérénité naturelle",
+      "legende": "Plongez dans l'histoire poignante de Sarajevo avant de vous évader vers la tranquillité des sources de la Bosna. Une journée équilibrée entre découverte culturelle et ressourcement au cœur d'une nature apaisante.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🌉 Visite du Pont Latin et Musée de Sarajevo 1878-1918</strong>: Découvrez le lieu de l'assassinat de l'Archiduc François-Ferdinand, événement déclencheur de la Première Guerre mondiale, et explorez le musée adjacent pour comprendre cette période clé.",
+        "<strong>🌳 Promenade apaisante à Vrelo Bosne</strong>: Échappez à l'agitation urbaine en vous promenant dans le parc naturel de Vrelo Bosne, les magnifiques sources de la rivière Bosna, un havre de paix verdoyant.",
+        "<strong>🍽️ Dégustation de spécialités locales</strong>: Savourez un dîner dans un restaurant traditionnel, goûtant aux saveurs authentiques de la cuisine bosnienne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Pont Latin, Sarajevo",
+          "categorie": "Monument historique",
+          "coords": { "lat": 43.8584, "lng": 18.4286 }
+        },
+        {
+          "nom_recherche": "Musée de Sarajevo 1878-1918, Sarajevo",
+          "categorie": "Musée",
+          "coords": { "lat": 43.8584, "lng": 18.4284 }
+        },
+        {
+          "nom_recherche": "Vrelo Bosne, Ilidža",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 43.8200, "lng": 18.2800 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Accès à Vrelo Bosne",
+          "texte": "Pour atteindre Vrelo Bosne, vous pouvez prendre un tramway jusqu'à Ilidža, puis une calèche ou marcher à travers l'allée des platanes."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛫",
+      "titre": "Vues panoramiques et doux départ",
+      "legende": "Commencez la journée par une ascension vers les hauteurs de Trebević pour des vues imprenables sur Sarajevo. Profitez d'un dernier moment pour quelques emplettes avant de prendre la route de l'aéroport, le cœur rempli de souvenirs.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🚠 Montée en téléphérique au Mont Trebević</strong>: Profitez d'une vue spectaculaire sur Sarajevo depuis le Mont Trebević, accessible via un téléphérique moderne, idéal pour une balade douce et des photos mémorables.",
+        "<strong>🛍️ Derniers achats à Baščaršija</strong>: Profitez de vos dernières heures pour acheter des souvenirs artisanaux, comme des objets en cuivre ou des bijoux, dans les petites boutiques de la vieille ville.",
+        "<strong>🛫 Départ de Sarajevo</strong>: Transfert vers l'aéroport international de Sarajevo (SJJ) pour votre vol retour, emportant avec vous les charmes des Balkans."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Téléphérique de Sarajevo, Sarajevo",
+          "categorie": "Transport / Point de vue",
+          "coords": { "lat": 43.8576, "lng": 18.4362 }
+        },
+        {
+          "nom_recherche": "Mont Trebević, Sarajevo",
+          "categorie": "Montagne / Point de vue",
+          "coords": { "lat": 43.8400, "lng": 18.4500 }
+        },
+        {
+          "nom_recherche": "Baščaršija, Sarajevo",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 43.8594, "lng": 18.4312 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Point de vue",
+          "texte": "Le Mont Trebević offre les meilleures vues panoramiques sur Sarajevo, parfait pour des photos inoubliables."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 239 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 25-35 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 90-120 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180-240 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 30-50 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Septembre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "Les températures à Sarajevo varient fortement selon les saisons. De mai à septembre, attendez-vous à des températures douces à chaudes (15-30°C). Prévoir des couches pour les soirées plus fraîches.", "symbole": "🌡️" },
+    { "titre": "La monnaie est le Mark convertible (BAM). 1 EUR ≈ 1.95 BAM. Les cartes de crédit sont acceptées dans la plupart des commerces, mais ayez toujours un peu de liquide pour les petits achats ou marchés.", "symbole": "💳" },
+    { "titre": "Le réseau de tramways et de bus est efficace pour se déplacer en ville. Pour les excursions hors de la ville, les taxis sont abordables. Pas besoin de permis international pour les courts séjours.", "symbole": "🚌" },
+    { "titre": "Le bosnien est la langue officielle. L'anglais est parlé dans les zones touristiques. Apprendre quelques mots de base comme 'Dobar dan' (Bonjour) ou 'Hvala' (Merci) est toujours apprécié.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Sarajevo est surnommée la \"Jérusalem de l'Europe\" en raison de la coexistence pacifique de quatre grandes religions (catholicisme, orthodoxie, islam et judaïsme) sur un territoire très restreint, avec des lieux de culte souvent à quelques pas les uns des autres." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "La flamme éternelle (Vječna vatra) au centre de Sarajevo brûle sans interruption depuis 1946 en commémoration des victimes de la Seconde Guerre mondiale. Elle est alimentée par le gaz naturel et n'a jamais été éteinte, même pendant le siège de la ville." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Ćevapi", 
+      "description": "De petites saucisses de viande hachée grillées, servies dans un pain plat (somun) avec des oignons crus et de la crème fraîche (kajmak). Un incontournable de la cuisine bosnienne." 
+    },
+    { 
+      "symbole": "🍲", 
+      "titre": "Burek", 
+      "description": "Une pâte feuilletée salée, généralement farcie de viande hachée, de fromage, d'épinards ou de pommes de terre. Idéal pour un repas rapide et savoureux." 
+    },
+    { 
+      "symbole": "🍰", 
+      "titre": "Tufahija", 
+      "description": "Une pomme pochée dans du sirop, farcie de noix et garnie de crème fouettée. Un dessert léger et délicieux, parfait pour accompagner un café." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SJJ/2026-05-15/2026-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Bosnie-Herzégovine", "url": "https://www.bhtourism.ba/eng/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Transports publics Sarajevo", "url": "https://www.gras.ba/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Sarajevo", "url": "https://www.accuweather.com/fr/ba/sarajevo/302829/weather-forecast/302829", "symbole": "🌤️" }
+  ]
+}
